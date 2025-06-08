@@ -6,31 +6,10 @@
 
 ## 🌟 Overview
 
-:contentReference[oaicite:1]{index=1} :contentReference[oaicite:2]{index=2}. :contentReference[oaicite:3]{index=3} :contentReference[oaicite:4]{index=4}. :contentReference[oaicite:5]{index=5}
-
+Can you predict the level of problematic internet usage exhibited by children and adolescents, based on their physical activity? The goal of this competition is to develop a predictive model that analyzes children's physical activity and fitness data to identify early signs of problematic internet use. Identifying these patterns can help trigger interventions to encourage healthier digital habits.
 ---
 
-## 📦 Dataset
 
-Files provided:
-- :contentReference[oaicite:6]{index=6}
-- :contentReference[oaicite:7]{index=7}
-- :contentReference[oaicite:8]{index=8}
-- :contentReference[oaicite:9]{index=9} :contentReference[oaicite:10]{index=10}
-
-Suggested steps:
-1. :contentReference[oaicite:11]{index=11}
-2. :contentReference[oaicite:12]{index=12}
-3. :contentReference[oaicite:13]{index=13}
-
----
-
-## 🎯 Problem Type
-
-- :contentReference[oaicite:14]{index=14} :contentReference[oaicite:15]{index=15}  
-- :contentReference[oaicite:16]{index=16}
-
----
 
 ## 🛠️ Installation & Environment
 
